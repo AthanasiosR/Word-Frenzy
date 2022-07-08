@@ -45,7 +45,6 @@ function App() {
     setWrongResults([]);
     setCountCorrect(0);
     setInputValue("");
-    // setNewWord(word[randomWord]);
   };
 
   useEffect(() => {
